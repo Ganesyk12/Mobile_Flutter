@@ -13,12 +13,19 @@ class MovieScreen extends StatelessWidget {
   MovieScreen({Key? key}) : super(key: key);
 
   final MovieController controller = Get.put(MovieController());
+  final proppinBold = Fonts.poppins.copyWith(
+    fontSize: 20.0, // Sesuaikan dengan ukuran yang diinginkan
+    fontWeight: FontWeight.bold,
+  );
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Top Rated"),
+        title: Text(
+          "Top Rated",
+          style: proppinBold,
+        ),
         centerTitle: true,
         backgroundColor: Colours.scaffoldBgColor,
       ),

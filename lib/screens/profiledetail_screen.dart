@@ -83,7 +83,7 @@ final informationContainer = Container(
         children: [
           Icon(Icons.email),
           SizedBox(width: 10),
-          Text("ganesyudhakusuma@gmail.com"),
+          Text("examplemail@mail"),
         ],
       ),
       SizedBox(height: 10),
