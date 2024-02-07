@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.2
   carousel_slider: ^4.2.1 #Slider animation
-  flutter_native_splash: 2.3.7
+  flutter_native_splash: 2.3.7 #Loading Screen
   get: ^4.6.5
   google_fonts: ^5.1.0 #styling font dari Googlefonts
   http: 1.1.0
