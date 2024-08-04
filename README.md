@@ -61,3 +61,15 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+## Preview
+
+<div style="overflow-x: auto; white-space: nowrap; width: 100%; border: 1px solid #ddd; padding: 10px;">
+  <img src="https://github.com/Ganesyk12/Mobile_Flutter/raw/main/preview/home.png" alt="Image 1" style="display: inline-block; width: 210px; height: auto; margin-right: 10px;">
+  <img src="https://github.com/Ganesyk12/Mobile_Flutter/raw/main/preview/list.png" alt="Image 2" style="display: inline-block; width: 210px; height: auto; margin-right: 10px;">
+  <img src="https://github.com/Ganesyk12/Mobile_Flutter/raw/main/preview/profile.png" alt="Image 3" style="display: inline-block; width: 210px; height: auto; margin-right: 10px;">
+  <img src="https://github.com/Ganesyk12/Mobile_Flutter/raw/main/preview/grid.png" alt="Image 4" style="display: inline-block; width: 210px; height: auto; margin-right: 10px;">
+</div>
+
